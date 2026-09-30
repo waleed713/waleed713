@@ -1,80 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:EC9A29&height=230&section=header&text=Waleed%20Ahmad&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=WALEED%20AHMAD&fontSize=42&fontColor=EC9A29&fontAlignY=45&animation=fadeIn" width="100%"/>
+
+<br>
 
 # Waleed Ahmad
 
-### WordPress Developer × UI/UX Designer × AI-Driven Builder
+### WORDPRESS DEVELOPER · UI/UX DESIGNER · AI BUILDER
 
-<p>
-Building <strong>modern digital experiences</strong> where
-<br/>
-<strong>Design × Development × AI</strong> meet.
-</p>
+<br>
 
-<br/>
+**I design and build digital experiences that are meant to be used, not just viewed.**
 
-<a href="https://waleed-portfolio-updated-pg5j.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-EC9A29?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/waleed-ahmad-b95665268/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/waleed_webstudio/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/waleed713">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
+
+<a href="https://waleed-portfolio-updated-pg5j.vercel.app/">Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/waleed-ahmad-b95665268/">LinkedIn</a>
+  ·   <a href="https://www.instagram.com/waleed_webstudio/">Instagram</a>
+  ·   <a href="https://github.com/waleed713">GitHub</a>
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-## `01` — About Me
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-I'm **Waleed Ahmad**, a WordPress Developer and UI/UX Designer focused on creating modern, responsive and conversion-driven websites.
+## PROFILE
 
-I started with WordPress and gradually moved into **UI/UX, custom development, SEO, performance, eCommerce and AI-assisted workflows**.
+I'm **Waleed Ahmad**, a WordPress Developer and UI/UX Designer focused on building modern, responsive and conversion-driven websites.
 
-I enjoy taking an idea from:
+My work combines **development, interface design, user experience, SEO and emerging AI workflows**.
 
-**Problem → UX → Design → Development → Optimization → Launch**
+I started with WordPress and gradually moved beyond page building into custom development, dynamic websites, eCommerce, product interfaces and modern web applications.
 
-My current focus is combining my WordPress experience with **AI and modern web technologies** to build better digital products.
+I approach every project through one simple sequence:
+
+**Understand → Design → Build → Refine → Launch**
 
 </td>
 
-<td width="40%" valign="top">
+<td width="35%" valign="top">
 
-### Quick Facts
+## AT A GLANCE
 
-**💻 Experience**
-15+ websites built
+**15+**
+Websites built
 
-**🎨 Design**
-UI/UX · Figma · Branding
+**86**
+GitHub contributions
 
-**⚡ Core**
-WordPress · Elementor · WooCommerce
+**3 days**
+Current streak
 
-**🤖 Exploring**
-AI · Automation · Next.js
+**3 days**
+Longest streak
 
-**🌍 Focus**
-Remote & International Work
+**WordPress**
+Primary ecosystem
 
-**📍 Based in**
-Pakistan
+**AI**
+Current direction
 
 </td>
 </tr>
@@ -82,31 +71,43 @@ Pakistan
 
 ---
 
-## `02` — What I Build
+## WHAT I BUILD
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### Websites
+### DIGITAL EXPERIENCES
 
-Modern business websites, landing pages and custom WordPress experiences.
-
-</td>
-
-<td width="33%" align="center">
-
-### eCommerce
-
-Premium online stores with focused UX, product presentation and conversion.
+Business websites
+Landing pages
+Brand websites
+Portfolio systems
+Custom WordPress
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### Digital Products
+### ECOMMERCE
 
-Web apps, AI tools and product concepts built around real problems.
+Online stores
+WooCommerce
+Product experiences
+Conversion-focused UX
+Responsive interfaces
+
+</td>
+
+<td width="33%" valign="top">
+
+### DIGITAL PRODUCTS
+
+Web applications
+AI-powered tools
+SaaS concepts
+Automation workflows
+Modern frontend systems
 
 </td>
 </tr>
@@ -114,61 +115,50 @@ Web apps, AI tools and product concepts built around real problems.
 
 ---
 
-## `03` — Tech Stack
+## TECHNOLOGY
 
 <div align="center">
 
-### WordPress & Development
-
-<img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php&perline=5"/>
-
-<br/><br/>
-
-### Modern Web
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vercel&perline=5"/>
-
-<br/><br/>
-
-### Design & Tools
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,react,nextjs,tailwind,supabase,figma,photoshop,git,github,vscode&perline=7"/>
 
 </div>
 
-<br/>
+<br>
 
-**Also working with:**
-`Elementor` · `Elementor Pro` · `ACF` · `WooCommerce` · `GSAP` · `SEO` · `Google Analytics` · `Search Console` · `GTM` · `REST APIs` · `AI Tools`
+<div align="center">
+
+`WordPress` · `Elementor` · `Elementor Pro` · `ACF` · `WooCommerce`
+`HTML` · `CSS` · `JavaScript` · `PHP` · `REST APIs`
+`Figma` · `Photoshop` · `GSAP` · `SEO`
+`Next.js` · `React` · `Tailwind CSS` · `Supabase` · `Vercel`
+`AI Development` · `Automation` · `AI Integration`
+
+</div>
 
 ---
 
-## `04` — Featured Projects
+## SELECTED WORK
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ✦ FramePress AI
+### FRAMEPRESS AI
 
-An AI-focused web development concept exploring how AI can improve the modern website creation workflow.
+An AI-focused web development concept exploring how modern AI workflows can improve the website creation process.
 
-**Stack**
-
-`WordPress` `Elementor` `React` `Tailwind` `AI`
+**WordPress · Elementor · React · Tailwind · AI**
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✦ AI Proposal Generator
+### AI PROPOSAL GENERATOR
 
-A web application concept designed to help freelancers create better client proposals through AI-assisted workflows.
+A web application concept designed around AI-assisted proposal creation for freelancers and service providers.
 
-**Stack**
-
-`Next.js` `Supabase` `AI`
+**Next.js · Supabase · AI**
 
 </td>
 
@@ -178,25 +168,21 @@ A web application concept designed to help freelancers create better client prop
 
 <td width="50%" valign="top">
 
-### ✦ Zarqash Collection
+### ZARQASH COLLECTION
 
-Premium fashion eCommerce experience combining luxury branding, product presentation and modern UX.
+A premium fashion eCommerce experience combining visual identity, product presentation and modern shopping UX.
 
-**Stack**
-
-`WordPress` `WooCommerce` `UI/UX`
+**WordPress · WooCommerce · UI/UX**
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✦ Luxe Stay
+### LUXE STAY
 
-Premium property/rental website concept with immersive visuals and smooth interactions.
+A premium property experience focused on immersive presentation, interaction and modern motion.
 
-**Stack**
-
-`WordPress` `GSAP` `UI/UX`
+**WordPress · GSAP · UI/UX**
 
 </td>
 
@@ -206,25 +192,21 @@ Premium property/rental website concept with immersive visuals and smooth intera
 
 <td width="50%" valign="top">
 
-### ✦ Francisco Dental Clinic
+### FRANCISCO DENTAL CLINIC
 
-Professional healthcare website focused on trust, clarity, accessibility and conversion.
+A professional healthcare experience designed around clarity, trust and conversion.
 
-**Stack**
-
-`WordPress` `Elementor` `SEO` `UI/UX`
+**WordPress · Elementor · UI/UX · SEO**
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✦ GLP-1 Companion
+### GLP-1 COMPANION
 
-WordPress-based health tracking platform concept with user accounts, forms and structured data.
+A WordPress-based platform concept featuring user accounts, forms, tracking and structured information.
 
-**Stack**
-
-`WordPress` `Elementor` `Ultimate Member` `WPForms`
+**WordPress · Elementor · Ultimate Member · WPForms**
 
 </td>
 
@@ -233,175 +215,221 @@ WordPress-based health tracking platform concept with user accounts, forms and s
 
 ---
 
-## `05` — What I've Learned
+## THE WORKFLOW
 
-```text
-WordPress Development
-├── Elementor / Elementor Pro
-├── Custom WordPress
-├── ACF Dynamic Websites
-├── WooCommerce
-├── Theme & Plugin Customization
-└── Performance Optimization
+<div align="center">
 
-UI / UX
-├── Figma
-├── Wireframing
-├── Prototyping
-├── Design Systems
-├── Responsive Design
-└── Conversion-Focused Interfaces
+### PROBLEM
 
-Web Development
-├── HTML / CSS
-├── JavaScript
-├── PHP
-├── REST APIs
-├── React
-└── Next.js
+↓
 
-Growth
-├── Technical SEO
-├── Google Search Console
-├── Google Analytics
-├── Google Tag Manager
-└── Website Performance
-```
+### RESEARCH
+
+↓
+
+### USER EXPERIENCE
+
+↓
+
+### INTERFACE DESIGN
+
+↓
+
+### DEVELOPMENT
+
+↓
+
+### OPTIMIZATION
+
+↓
+
+### LAUNCH
+
+</div>
+
+I believe development becomes stronger when **design and engineering are considered together**.
 
 ---
 
-## `06` — Currently Learning
+## CURRENTLY LEARNING
 
-I'm currently moving deeper into the **AI + modern web development** space.
+I'm expanding my development stack beyond traditional WordPress.
 
-```text
-AI-Powered Development
-AI Agents & Automation
-Next.js & React
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**AI & AUTOMATION**
+
+AI-assisted development
+AI integrations
+AI agents
+Automation workflows
+AI-powered products
+
+</td>
+
+<td width="50%" valign="top">
+
+**MODERN WEB**
+
+Next.js
+React
 Advanced JavaScript
-Advanced PHP
-APIs & Integrations
 Supabase
+APIs & integrations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**WORDPRESS ENGINEERING**
+
+Custom WordPress
+Advanced PHP
+Performance
+Dynamic architectures
+Advanced WooCommerce
+
+</td>
+
+<td width="50%" valign="top">
+
+**PRODUCT & DESIGN**
+
+Design systems
+Conversion UX
+Product thinking
 Technical SEO
-Performance Engineering
-Design Systems
-Product Thinking
-Conversion Strategy
-```
+Interaction design
 
-> I don't want to learn every technology.
->
-> I want to understand **which technology solves which problem — and use it properly.**
+</td>
+</tr>
+</table>
 
 ---
 
-## `07` — Beyond Code
+## WHAT I ALREADY KNOW
 
-**🏏 Cricket**
-A favorite way to disconnect from development.
+My strongest foundation is in **WordPress development and UI/UX design**.
 
-**🏔️ Nature & Exploration**
-Mountains, landscapes and quiet places are a constant source of inspiration.
+I work confidently with:
 
-**🎨 Design**
-Typography, interfaces, branding and visual systems are things I naturally enjoy studying.
-
-**🤖 AI & Technology**
-I'm interested in how AI is changing the way websites, software and digital businesses are built.
-
-**🧠 Creative Problem Solving**
-I enjoy turning vague ideas into structured, visual and functional experiences.
+* WordPress and Elementor
+* Elementor Pro
+* Dynamic WordPress with ACF
+* WooCommerce
+* HTML, CSS and JavaScript
+* PHP fundamentals
+* Responsive development
+* Figma to WordPress
+* UI/UX and design systems
+* SEO fundamentals
+* Website performance
+* Google Analytics
+* Google Search Console
+* Google Tag Manager
+* AI-assisted development
 
 ---
 
-## `08` — My Philosophy
+## BEYOND DEVELOPMENT
+
+Technology is only one part of how I think.
+
+I spend time exploring **design, branding, typography, technology, AI, creative problem solving and nature**.
+
+I'm also interested in cricket and exploring new places.
+
+The things outside development often influence the way I approach the things I build.
+
+---
+
+## DIRECTION
+
+I'm not trying to become someone who simply knows more tools.
+
+I'm working toward becoming a **product-minded developer** who understands the entire journey behind a digital product.
+
+**Idea → Strategy → UX → Design → Code → AI → Product**
+
+My long-term direction is to build digital products, work with international teams and clients, and create systems where **design, development and AI work together**.
+
+---
+
+## PRINCIPLE
 
 <div align="center">
 
-### **Don't build what looks impressive.**
+<br>
 
-### **Build what solves the problem.**
+### "Don't build what looks impressive."
 
-<br/>
+### "Build what solves the problem."
 
-`Strategy → UX → Design → Code → Performance → Results`
+<br>
+
+**Good design attracts attention.**
+**Good UX earns trust.**
+**Good development makes it work.**
+**Good strategy gives it purpose.**
+
+<br>
 
 </div>
 
 ---
 
-## `09` — What I'm Building Toward
-
-I'm working toward becoming a **product-minded web developer** rather than only a traditional website developer.
-
-My goal is to be able to take an idea from:
-
-**Problem → Research → UX → Design → Development → AI → Launch**
-
-I'm especially interested in:
-
-* AI-powered web products
-* Digital products
-* SaaS concepts
-* Automation systems
-* Modern WordPress solutions
-* High-quality UI/UX
-* International client work
-
----
-
-## `10` — GitHub Activity
+## GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waleed713&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=waleed713&show_icons=true&hide_border=true&title_color=EC9A29&text_color=FFFFFF&icon_color=EC9A29&bg_color=0D0D0D" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed713&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed713&layout=compact&hide_border=true&title_color=EC9A29&text_color=FFFFFF&bg_color=0D0D0D" width="48%"/>
 
-</div>
+<br><br>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=waleed713&hide_border=true&theme=transparent" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=waleed713&hide_border=true&background=0D0D0D&ring=EC9A29&fire=EC9A29&currStreakLabel=EC9A29&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
 
 </div>
 
 ---
 
-## `11` — Let's Connect
+## CONNECT
 
 <div align="center">
 
-If you're building something interesting around **web development, UI/UX, WordPress or AI**, let's connect.
+**Have an idea worth building?**
 
-<br/>
+<br>
 
 <a href="https://waleed-portfolio-updated-pg5j.vercel.app/">
-<strong>PORTFOLIO</strong>
+PORTFOLIO
 </a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+
+  ·  
+
 <a href="https://www.linkedin.com/in/waleed-ahmad-b95665268/">
-<strong>LINKEDIN</strong>
+LINKEDIN
 </a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+
+  ·  
+
 <a href="https://www.instagram.com/waleed_webstudio/">
-<strong>INSTAGRAM</strong>
+INSTAGRAM
 </a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+
+  ·  
+
 <a href="https://github.com/waleed713">
-<strong>GITHUB</strong>
+GITHUB
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC9A29,100:0D0D0D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EC9A29&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!--
-Built with curiosity.
-Designed with intention.
-Developed with purpose.
--->
