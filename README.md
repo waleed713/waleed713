@@ -4,7 +4,6 @@
 
 <br>
 
-# Waleed Ahmad
 
 ### WORDPRESS DEVELOPER · UI/UX DESIGNER · AI BUILDER
 
